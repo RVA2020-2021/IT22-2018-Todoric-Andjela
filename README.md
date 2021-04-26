@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # FrontendRVA2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
+=======
+# AngularStarterProject
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
+>>>>>>> 33cc7361ba9146bbbfe21b21a762f9845c108c98
 
 ## Development server
 
@@ -24,4 +30,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
+<<<<<<< HEAD
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+>>>>>>> 33cc7361ba9146bbbfe21b21a762f9845c108c98
